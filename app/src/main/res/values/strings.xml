@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Android1c</string>
+    <string name="code">CODE</string>
+    <string name="verification">VERIFICATION</string>
+    <string name="enter_ontime_password_sent_on_849092605798">Enter ontime password sent on "\n" ++849092605798</string>
+    <string name="verify_code">VERIFY CODE</string>
+</resources>
